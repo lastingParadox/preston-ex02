@@ -24,5 +24,9 @@ run {
 }
 
 application {
+<<<<<<< HEAD
     mainClass = "exercises.base.Solution02"
+=======
+    mainClass = "exercises.Solution02"
+>>>>>>> f2df91e640db3dc11be434e475ec65fd7426247b
 }
